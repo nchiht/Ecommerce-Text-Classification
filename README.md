@@ -1,2 +1,2 @@
-# Entry_AI_project
+# Ecommerce-Text-Classification
 Text classification using deeplearning on an ecommerce dataset
